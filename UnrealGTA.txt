@@ -1,0 +1,6 @@
+2021/05/10----------------------
+Agreagar Municion / Add ammunition (添加彈藥)
+Cantidad / Quantity (數量)
+MunicionPorCartucho / Cartridge (彈藥桶)
+CartuchosMaximos/ Cartridges Maximum (最大量)
+Nombre / Name (名字)
