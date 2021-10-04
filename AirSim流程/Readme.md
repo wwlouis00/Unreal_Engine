@@ -7,5 +7,5 @@
 3. 登入Epic帳號後安裝UE4.25
 
 ## 安裝Git
-Git下載
+1. Git下載
 ## Visual Studio 2019安裝
