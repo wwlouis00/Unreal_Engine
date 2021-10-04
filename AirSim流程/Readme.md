@@ -11,4 +11,9 @@
 
 ## 安裝Git
  - [Git官網](https://git-scm.com/downloads)
+
 ## Visual Studio 2019安裝
+1. 下載Visual Studio 2019
+2. 打開Visual Studio Installer 
+3. Modify
+4. 
